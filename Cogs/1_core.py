@@ -3,8 +3,7 @@ from disnake.ext import commands
 import requests
 import json
 
-client_id = "TikMmw1Tk3I8YAmbAXIb"
-client_secret = "79SyD7Wwo0"
+
 
 
 class core(commands.Cog):
